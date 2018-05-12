@@ -1,0 +1,32 @@
+_repo: Our-Little-Danish-Cousin_44030
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Otis, Elizabeth
+    gutenberg_agent_id: '26778'
+    url: http://www.gutenberg.org/2009/agents/26778
+covers:
+- cover_type: archival
+  image_path: 44030-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ennis, Luna May
+    alias: Innes, Luna May
+    gutenberg_agent_id: '42529'
+    url: http://www.gutenberg.org/2009/agents/42529
+description: ''
+gutenberg_issued: '2013-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44030'
+  lccn: '12014710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Denmark -- Juvenile literature'
+- !lcc 'PZ'
+- !lcc 'DL'
+title: Our Little Danish Cousin
+url: http://www.gutenberg.org/ebooks/44030
